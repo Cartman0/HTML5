@@ -1,3 +1,6 @@
 [submodule "test"]
 	path = test
 	url = https://github.com/Cartman0/test.git
+[submodule "FileAPI_Sample_SlectReadPrintImage"]
+	path = FileAPI_Sample_SlectReadPrintImage
+	url = https://github.com/Cartman0/FileAPI_Sample_SlectReadPrintImage.git
