@@ -4,3 +4,6 @@
 [submodule "FileAPI_Sample_SlectReadPrintImage"]
 	path = FileAPI_Sample_SlectReadPrintImage
 	url = https://github.com/Cartman0/FileAPI_Sample_SlectReadPrintImage.git
+[submodule "FileAPI_Canvas_Sample_SelectReadDrawImage"]
+	path = FileAPI_Canvas_Sample_SelectReadDrawImage
+	url = https://github.com/Cartman0/FileAPI_Canvas_Sample_SelectReadDrawImage.git
