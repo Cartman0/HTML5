@@ -7,3 +7,6 @@
 [submodule "FileAPI_Canvas_Sample_SelectReadDrawImage"]
 	path = FileAPI_Canvas_Sample_SelectReadDrawImage
 	url = https://github.com/Cartman0/FileAPI_Canvas_Sample_SelectReadDrawImage.git
+[submodule "CheckDeviceWithUserAgent"]
+	path = CheckDeviceWithUserAgent
+	url = https://github.com/Cartman0/CheckDeviceWithUserAgent.git
