@@ -10,3 +10,6 @@
 [submodule "CheckDeviceWithUserAgent"]
 	path = CheckDeviceWithUserAgent
 	url = https://github.com/Cartman0/CheckDeviceWithUserAgent.git
+[submodule "FileAPI_Canvas_Sample_CaptureCamera_Resize"]
+	path = FileAPI_Canvas_Sample_CaptureCamera_Resize
+	url = https://github.com/Cartman0/FileAPI_Canvas_Sample_CaptureCamera_Resize.git
