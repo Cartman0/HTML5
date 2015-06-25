@@ -13,3 +13,6 @@
 [submodule "FileAPI_Canvas_Sample_CaptureCamera_Resize"]
 	path = FileAPI_Canvas_Sample_CaptureCamera_Resize
 	url = https://github.com/Cartman0/FileAPI_Canvas_Sample_CaptureCamera_Resize.git
+[submodule "Canvas_onkeydown_Sample"]
+	path = Canvas_onkeydown_Sample
+	url = https://github.com/Cartman0/Canvas_onkeydown_Sample.git
