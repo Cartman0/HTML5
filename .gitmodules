@@ -16,3 +16,6 @@
 [submodule "Canvas_onkeydown_Sample"]
 	path = Canvas_onkeydown_Sample
 	url = https://github.com/Cartman0/Canvas_onkeydown_Sample.git
+[submodule "geolocationTest"]
+	path = geolocationTest
+	url = https://github.com/Cartman0/geolocationTest.git
