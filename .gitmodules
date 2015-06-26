@@ -19,3 +19,6 @@
 [submodule "geolocationTest"]
 	path = geolocationTest
 	url = https://github.com/Cartman0/geolocationTest.git
+[submodule "VisualizeBinarySearch"]
+	path = VisualizeBinarySearch
+	url = https://github.com/Cartman0/VisualizeBinarySearch.git
