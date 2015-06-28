@@ -22,3 +22,6 @@
 [submodule "VisualizeBinarySearch"]
 	path = VisualizeBinarySearch
 	url = https://github.com/Cartman0/VisualizeBinarySearch.git
+[submodule "motion_deviceTest"]
+	path = motion_deviceTest
+	url = https://github.com/Cartman0/motion_deviceTest.git
